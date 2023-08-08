@@ -3,6 +3,5 @@
 Hello World Repo for Python
 ## Create the Hello World program
 
-print("Hello World")
 
 Display "Hello World" as output.
